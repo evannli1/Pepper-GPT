@@ -1,23 +1,24 @@
-# Pepper-GPT Controller
+# Pepper Natural Dialogue System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)](https://www.python.org/downloads/)
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
+[![Institution](https://img.shields.io/badge/Institution-KCL%20Robotics-red.svg)](https://www.kcl.ac.uk/research/robotics)
 
-A Python project for controlling Pepper robot with integrated GPT dialogue functionality, implementing voice interaction, face tracking, motion control, and more.
+A research project from the Centre for Robotics Research at King's College London, focusing on natural human-robot interaction through the Pepper robot platform. This system integrates advanced dialogue capabilities with sophisticated robot control, enabling Pepper to engage in natural conversations while maintaining appropriate non-verbal behaviors such as face tracking, gesture generation, and spatial awareness.
 
 [中文文档](README_CN.md)
 
 ![Pepper Robot](https://github.com/evannli1/Pepper-GPT/raw/main/docs/images/pepper.jpg)
 
-## 🌟 Features
+## 🌟 Key Features
 
-- 🤖 Face detection and tracking
-- 🗣️ Voice recognition and dialogue
-- 🎭 Automatic idle animations
-- 👆 Touch response
-- 🧠 GPT dialogue integration
-- 👀 Basic awareness control
+- 🤖 Intelligent face tracking and engagement
+- 🗣️ Natural language understanding and generation
+- 🎭 Context-aware behavior generation
+- 👆 Responsive touch interaction
+- 🧠 Advanced dialogue management
+- 👀 Social awareness and appropriate gaze behavior
 
 ## File Structure
 
@@ -156,10 +157,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[evannli1](https://github.com/evannli1)
+Research conducted at the [Centre for Robotics Research (CORE)](https://www.kcl.ac.uk/research/robotics), Department of Engineering, King's College London.
+
+Project Lead: [evannli1](https://github.com/evannli1)
 
 ## Acknowledgments
 
+- Centre for Robotics Research at King's College London
 - SoftBank Robotics for Pepper robot and NAOqi SDK
 - Groq for GPT API
 - OpenCV community
