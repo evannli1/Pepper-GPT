@@ -9,13 +9,13 @@ A research project from the Centre for Robotics Research at King's College Londo
 
 [中文文档](README_CN.md)
 
-![Pepper Robot](https://github.com/evannli1/Pepper-GPT/raw/main/docs/images/pepper.jpg)
+<img src="docs/images/pepper.jpg" alt="Pepper Robot" width="600"/>
 
 ## 📺 Demo Video
 
 Watch our system in action:
 
-[![Pepper Natural Dialogue System Demo](https://img.youtube.com/vi/6OpSl6kfg8Q/maxresdefault.jpg)](https://youtu.be/6OpSl6kfg8Q)
+https://github.com/evannli1/Pepper-Natural-Dialogue/assets/YOUR_ASSET_ID/6OpSl6kfg8Q
 
 ## 🌟 Key Features
 
@@ -165,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Research conducted at the [Centre for Robotics Research (CORE)](https://www.kcl.ac.uk/research/robotics), Department of Engineering, King's College London.
 
-Project Lead: Yifan and Jiayu ([evannli1](https://github.com/evannli1))
+Project Lead: Jiayu and Yifan ([evannli1](https://github.com/evannli1))
 
 ## Acknowledgments
 
