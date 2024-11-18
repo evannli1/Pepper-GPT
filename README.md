@@ -1,17 +1,23 @@
 # Pepper-GPT Controller
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
+
 A Python project for controlling Pepper robot with integrated GPT dialogue functionality, implementing voice interaction, face tracking, motion control, and more.
 
 [中文文档](README_CN.md)
 
-## Features
+![Pepper Robot](https://github.com/evannli1/Pepper-GPT/raw/main/docs/images/pepper.jpg)
 
-- Face detection and tracking
-- Voice recognition and dialogue
-- Automatic idle animations
-- Touch response
-- GPT dialogue integration
-- Basic awareness control
+## 🌟 Features
+
+- 🤖 Face detection and tracking
+- 🗣️ Voice recognition and dialogue
+- 🎭 Automatic idle animations
+- 👆 Touch response
+- 🧠 GPT dialogue integration
+- 👀 Basic awareness control
 
 ## File Structure
 
@@ -146,14 +152,15 @@ python2 pepper_main_controller.py
 
 ## License
 
-[Choose appropriate license]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-[Your name]
+[evannli1](https://github.com/evannli1)
 
 ## Acknowledgments
 
 - SoftBank Robotics for Pepper robot and NAOqi SDK
 - Groq for GPT API
 - OpenCV community
+- All contributors to this project
