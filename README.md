@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)](https://www.python.org/downloads/)
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
-[![Institution](https://img.shields.io/badge/Institution-KCL%20Robotics-red.svg)](https://www.kcl.ac.uk/research/robotics)
+[![Institution](https://img.shields.io/badge/Institution-KCL%20Robotics-red.svg)](https://www.kcl.ac.uk/research/core)
 
 A research project from the Centre for Robotics Research at King's College London, focusing on natural human-robot interaction through the Pepper robot platform. This system integrates advanced dialogue capabilities with sophisticated robot control, enabling Pepper to engage in natural conversations while maintaining appropriate non-verbal behaviors such as face tracking, gesture generation, and spatial awareness.
 
@@ -15,7 +15,7 @@ A research project from the Centre for Robotics Research at King's College Londo
 
 Watch our system in action:
 
-[![Pepper Natural Dialogue System Demo](https://img.youtube.com/vi/6OpSl6kfg8Q/maxresdefault.jpg)](https://youtu.be/6OpSl6kfg8Q)
+[![Pepper Natural Dialogue System Demo](https://img.youtube.com/vi/6OpSl6kfg8Q/sddefault.jpg)](https://youtu.be/6OpSl6kfg8Q)
 
 ## 🌟 Key Features
 
@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Research conducted at the [Centre for Robotics Research (CORE)](https://www.kcl.ac.uk/research/robotics), Department of Engineering, King's College London.
+Research conducted at the [Centre for Robotics Research (CORE)](https://www.kcl.ac.uk/research/core), Department of Engineering, King's College London.
 
 Project Lead: Yifan ([evannli1](https://github.com/evannli1)) and Jiayu
 
