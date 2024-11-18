@@ -1,0 +1,8 @@
+# Python 2.7 requirements for Pepper robot control
+numpy==1.16.6  # Last version supporting Python 2.7
+opencv-python==4.5.5.64  # Last version supporting Python 2.7
+requests==2.27.1  # Last version supporting Python 2.7
+SpeechRecognition==3.8.1
+# NAOqi SDK is required but must be installed manually from Softbank Robotics website
+# Download pynaoqi-python2.7-2.5.5.5-linux64.tar.gz and extract it
+# Then set PYTHONPATH and LD_LIBRARY_PATH as described in the installation guide
